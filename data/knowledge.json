@@ -1,0 +1,20 @@
+[
+  {
+    "id": "001",
+    "pregunta": "hola",
+    "tags": ["saludo", "buen día", "qué tal"],
+    "respuesta": "¡Hola! ¿En qué puedo ayudarte?"
+  },
+  {
+    "id": "002",
+    "pregunta": "¿Qué es JavaScript?",
+    "tags": ["javascript", "lenguaje", "programación", "web"],
+    "respuesta": "JavaScript es un lenguaje de programación usado en la web."
+  },
+  {
+    "id": "003",
+    "pregunta": "¿Cómo puedo contactarlos?",
+    "tags": ["contacto", "correo", "soporte"],
+    "respuesta": "Puedes escribirnos a soporte@empresa.com."
+  }
+]
