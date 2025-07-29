@@ -35,7 +35,7 @@ const ChatModel = (() => {
   function getResponse(message) {
     if (!fuse) {
       console.warn('La base de conocimiento no está cargada aún.');
-      return "Lo siento, mi base de conocimiento aún no está lista.";
+      return "Lo siento.";
     }
 
     const results = fuse.search(message);
