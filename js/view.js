@@ -55,7 +55,7 @@ const ChatView = (() => {
         <div class="welcome-icon">
           <i class="fas fa-comments"></i>
         </div>
-        <h4>¡Hola! 👋</h4>
+        <h4>¡HOLAAAAAA! 👋</h4>
         <p>Soy tu asistente virtual. ¿En qué puedo ayudarte hoy?</p>
       </div>
     `;
